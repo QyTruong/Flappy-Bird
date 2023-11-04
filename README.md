@@ -1,3 +1,3 @@
 # Flappy-Bird
-Up cho zui, nhưng hoàn thiện =)))
+Up cho zui, nhưng chưa hoàn thiện =)))
 Cre: Codexplore
